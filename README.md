@@ -125,6 +125,14 @@ And evaluates:
 
 The dashboard provides healthcare stakeholders with a centralized view of healthcare activity, financial performance, operational efficiency, procedure utilization, and patient return behavior, supporting data-driven decision-making and highlighting areas where operational and financial improvements may be achieved.
 
+## Conclusion
+
+The findings indicate that the hospital's primary challenges are not related to healthcare demand, but rather to the financial burden associated with uninsured patients, low overall payer coverage, and the resource demands created by recurring patient utilization. Future strategic efforts should focus on improving payment recovery strategies, understanding the causes of repeat encounters, and optimizing the management of high-cost and long-duration healthcare services.
+
+The Healthcare Intelligence Dashboard successfully transformed complex healthcare data into an interactive reporting solution capable of supporting operational and strategic decision-making. By combining SQL-based analysis with Power BI visualizations, the project provides healthcare stakeholders with comprehensive insights into encounter activity, financial performance, procedure utilization, operational efficiency, and patient behaviour.
+The resulting dashboard enables users to monitor key performance indicators, identify emerging trends, evaluate financial outcomes, and make more informed decisions based on reliable, data-driven evidence.
+
+
 ## Skills Demonstrated: SQL • ETL • Data Cleaning • Data Validation • Data Modeling • DAX • Power BI • Healthcare Analytics • Data Visualization • Business Intelligence
 
 ## Author
