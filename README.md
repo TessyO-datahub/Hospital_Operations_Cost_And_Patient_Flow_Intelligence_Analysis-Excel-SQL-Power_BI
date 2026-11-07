@@ -29,6 +29,9 @@ The project sought to answer the following business questions:
 - What proportion of encounters last longer than 24 hours?
 - How often do patients return for additional healthcare services?
 
+## Methodology
+[Healthcare_Analytics_Methodology](/Healthcare_Analytics_Methodology.pdf)
+
 ## Tools Used
 
 ### MySQL
