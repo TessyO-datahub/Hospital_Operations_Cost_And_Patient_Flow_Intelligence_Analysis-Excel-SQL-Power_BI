@@ -10,6 +10,7 @@ Healthcare Intelligence Dashboard | SQL + Power BI
 - [Healthcare_Analytics_Executive_Report](/Healthcare_Analytics_Executive_Report.pdf)
 - [Healthcare_Analytics Methodology](/Healthcare_Analytics_Methodology.pdf)
 - [MySQL script](/Week_3_MySQL_Script.sql)
+- [KPI_Validation_Evidence](/KPI_Validation_Evidence.pdf)
   
 
 ## Project Overview
